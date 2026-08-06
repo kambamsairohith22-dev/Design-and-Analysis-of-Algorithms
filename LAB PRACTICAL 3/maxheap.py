@@ -23,3 +23,6 @@ arr = [60, 4, -9, 2, 30]
 n = len(arr)
 heapSort(arr, n)
 print("Sorted (Max Heap Sort):", arr)
+
+Time Complexity: O(1)
+Space Complexity: O(n)
